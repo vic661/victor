@@ -1,2 +1,2 @@
 # victor
-tv uk
+free channels for iptv on VLC
